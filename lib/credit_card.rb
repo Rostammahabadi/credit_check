@@ -40,4 +40,8 @@ class CreditCard
     end
   end
 
+  def last_four
+    @card_number.split('').pop(4).join
+  end
+
 end

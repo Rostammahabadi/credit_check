@@ -1,5 +1,4 @@
 require 'pry'
-card_number = "5541808923795240"
 
 
 # Your Luhn Algorithm Here
